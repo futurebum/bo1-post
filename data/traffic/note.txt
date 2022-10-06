@@ -1,0 +1,7 @@
+ehc's traffic graph is from p35 of their public report.
+bisite's traffic graphs are from p91 of their report.
+
+i processed them all with webplotdigitizer, available here:
+https://automeris.io/WebPlotDigitizer/
+
+bisite's data is more reliable, since they worked with the actual server logs, whereas ehc only worked with whatever log entries their monitoring software managed to report back on election day. i would've used bisite's data to calculate the bo1/bo11 traffic ratio, but bisite didn't provide detailed graphs of bo11's traffic patterns, so i had to use ehc's data (up to 19:50, when their numbers go off the rails).
